@@ -1,0 +1,218 @@
+/* Your styles here */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: bold;
+}
+h1 {
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
+}
+p {
+  margin: 0.5em 0;
+}
+
+body {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  /* background-image: url(); */
+  
+
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  /* font-family: 'Poppins', sans-serif; */
+  color: #393d41 – 1.2rem – Open Sans – interlinea 1.65
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap');
+
+.container-1 {
+    background-image: url(banner.jpg);
+    background-repeat: repeat-y;
+  background-position: center;
+  height: 300px;
+}
+
+#partiamo {
+    background-color: orangered;
+    border-radius: 5px;
+}
+
+.partiamo {
+    text-align: center;
+    margin: 100px;
+}
+
+
+#primo-paragrafo {
+    text-align: center;
+    margin: 70px;
+}
+
+.logo {
+    width: 500px;
+    height: 100px;
+}
+
+#titolo-1 {
+    color: rgb(0, 170, 255);
+}
+
+.sottotitolo-1 {
+    color: rgb(0, 145, 255);
+    text-align: center;
+    margin: 50px;
+}
+
+#paragrafo-2 {
+    text-align: center;
+    margin: 30px;
+}
+
+#paragrafo-3 {
+    text-align: center;
+    margin: 30px;
+}
+
+#notebook {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#paragrafo-4 {
+    text-align: center;
+    margin: 30px;
+}
+
+#paragrafo-5 {
+    text-align: center;
+    margin: 30px;
+}
+
+.container-2 {
+    background-color: orangered;
+}
+
+#titolo-2 {
+    color: white;
+    text-align: center;
+}
+
+
+#paragrafo-6 {
+    color: white;
+    text-align: center;
+}
+
+#paragrafo-7 {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+#paragrafo-8 {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+#paragrafo-9 {
+    text-align: center;
+    margin: 30px;
+
+}
+
+#foto1 {
+    width: 500px;
+    height: 300px;
+}
+
+
+
+
+
+
+.container-3 {
+    border: 1px solid gray;
+
+
+
+
+
+
+
+
+}
+
+#foto2 {
+    width: 500px;
+    height: 300px;
+}
+
+.nascosto {
+    visibility: hidden;
+}
+
+.container-4 {
+    border: 1px solid gray;
+}
+
+#paragrafo-10 {
+    text-align: center;
+    margin: 30px;
+}
+
+#foto3 {
+    width: 500px;
+    height: 300px;
+}
+
+#paragrafo-11 {
+    text-align: center;
+    margin: 60px;
+}
+
+.container-5 {
+    border: 1px solid gray;
+}
+
+.titoletto {
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.container-6 {
+    background-color: aqua;
+}
+
+#sezione-1 {
+    color: white;
+    text-align: center;
+}
+
+.sezione-2 {
+    color: white;
+    text-align: center;
+}
+
+.sezione-3 {
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
